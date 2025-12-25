@@ -158,6 +158,10 @@ Click on the thumbnail to open the video☝️
   - **Documentation:** [librechat.ai/docs](https://librechat.ai/docs)
   - **Blog:** [librechat.ai/blog](https://librechat.ai/blog)
 
+## 🏷️ Branding Responsibly
+
+Looking to ship your own branded experience? Follow the [Branding & Licensing Guide](docs/BRANDING_GUIDE.md) for steps to swap logos/icons and add your own copyright line while keeping the upstream MIT License intact.
+
 ---
 
 ## 📝 Changelog
